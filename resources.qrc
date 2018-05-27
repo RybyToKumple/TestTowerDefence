@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Towers">
+        <file>tower1.png</file>
+    </qresource>
+    <qresource prefix="/Projectiles">
+        <file>bullet1.png</file>
+    </qresource>
+    <qresource prefix="/Enemies">
+        <file>enemy1.png</file>
+    </qresource>
+</RCC>
